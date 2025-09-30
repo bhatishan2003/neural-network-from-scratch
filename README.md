@@ -54,7 +54,7 @@
     Displays the available options and usage details:
 
     ```bash
-    python main.py --help
+    python neural_network.py --help
     ```
 
 ## Development Notes
